@@ -48,7 +48,7 @@ export default function App() {
           )}
         </header>
         <main>
-          <p>Email: {email}</p>
+          <p>User: {email}</p>
           <p>Click on a restaurant to update it</p>
           <Switch>
             <Route exact path="/">
