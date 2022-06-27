@@ -8,7 +8,7 @@ export default function CreateRestaurant() {
   const [restaurantInTheForm, setRestaurantInTheForm] = useState({
     name: '',
     location: '',
-    author: '',
+    // author: '',
     review: '',
   });
 
